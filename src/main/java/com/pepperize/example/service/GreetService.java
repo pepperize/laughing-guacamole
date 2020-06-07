@@ -1,4 +1,4 @@
-package com.pepperize.example;
+package com.pepperize.example.service;
 
 import java.io.Serializable;
 

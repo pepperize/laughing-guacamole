@@ -5,6 +5,7 @@ on: push
 env:
   MAVEN_CLI_OPTS: "--batch-mode --errors --fail-at-end --show-version -DinstallAtEnd=false -DdeployAtEnd=false"
   VAADIN_TESTBENCH_DEVELOPER_LICENSE: ${{ secrets.VAADIN_TESTBENCH_DEVELOPER_LICENSE }}
+
 jobs:
   build-test:
     name: Build and test ${{ matrix.java }}

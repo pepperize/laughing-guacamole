@@ -1,5 +1,6 @@
-package com.pepperize.example;
+package com.pepperize.example.view;
 
+import com.pepperize.example.service.GreetService;
 import com.vaadin.flow.component.Key;
 import com.vaadin.flow.component.button.Button;
 import com.vaadin.flow.component.button.ButtonVariant;
