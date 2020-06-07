@@ -1,3 +1,5 @@
+![Push Actions](https://github.com/pepperize/laughing-guacamole/workflows/Push%20Actions/badge.svg)
+
 # Project Base for Vaadin and Spring Boot
 
 This is an example project that can be used as a starting point to create your own Vaadin application with Spring Boot.
