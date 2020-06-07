@@ -30,4 +30,4 @@ jobs:
           java-version: ${{ matrix.java }}
 
       - name: Test with Maven
-        run: mvn $MAVEN_CLI_OPTS -Dvaadin.testbench.developer.license=$VAADIN_TESTBENCH_DEVELOPER_LICENSE -Pit verify
+        run: mvn $MAVEN_CLI_OPTS -Dvaadin.testbench.developer.license=$VAADIN_TESTBENCH_DEVELOPER_LICENSE -Pit test
