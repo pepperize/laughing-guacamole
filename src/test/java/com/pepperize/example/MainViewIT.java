@@ -1,4 +1,4 @@
-package org.vaadin.example;
+package com.pepperize.example;
 
 import com.vaadin.flow.component.textfield.testbench.TextFieldElement;
 import org.junit.Assert;

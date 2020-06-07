@@ -1,4 +1,4 @@
-package org.vaadin.example;
+package com.pepperize.example;
 
 import java.io.Serializable;
 
